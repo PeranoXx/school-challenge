@@ -1,0 +1,10 @@
+{
+    "name": "admin/school-challenge",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\SchoolChallenge\\": "src/"
+        }
+    },
+    "require": {}
+}
